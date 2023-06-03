@@ -8,7 +8,8 @@ Hello!👋 I'm Melvin Renish, and I am a passionate frontend developer. I specia
 You can connect with me on the following social platforms:
 
 - **LinkedIn**: [![LinkedIn](https://1.bp.blogspot.com/-A6OIHx4SAso/YA9KXV2_XzI/AAAAAAAAU2Y/c_PosRqMjVgNKEUSIbqnLXdYelccf_OBwCLcBGAsYHQ/s0/linkedin_icon.png)](https://www.linkedin.com/in/renish-okago-993498246/)
-- **GitHub**: [![GitHub](path/to/github-icon.png)](https://www.github.com/fabrizia2)
+- **GitHub**: [![GitHub](https://pngimg.com/uploads/github/github_PNG48.png)](https://www.github.com/fabrizia2)
+- **Twitter**: [![Twitter](https://icons.iconarchive.com/icons/designbolts/minimalist-social/128/Twitter-2-icon.png)](https://twitter.com/home)
 
 ## How to Reach Me
 Please feel free to reach out to me via any of the aforementioned platforms. I am always open to new connections, collaborations, and discussions. If you have any questions or need assistance, I'll do my best to help you.
