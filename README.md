@@ -7,7 +7,7 @@ Hello!👋 I'm Melvin Renish, and I am a passionate frontend developer. I specia
 ## Contact Information
 You can connect with me on the following social platforms:
 
-- **LinkedIn**: [![LinkedIn](https://clipart-library.com/new_gallery/25-259122_icons-symbols-button-linkedin-png-image.png)](https://www.linkedin.com/in/renish-okago-993498246/)
+- **LinkedIn**: [![LinkedIn](https://1.bp.blogspot.com/-A6OIHx4SAso/YA9KXV2_XzI/AAAAAAAAU2Y/c_PosRqMjVgNKEUSIbqnLXdYelccf_OBwCLcBGAsYHQ/s0/linkedin_icon.png)](https://www.linkedin.com/in/renish-okago-993498246/)
 - **GitHub**: [![GitHub](path/to/github-icon.png)](https://www.github.com/fabrizia2)
 
 ## How to Reach Me
